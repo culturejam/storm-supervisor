@@ -1,5 +1,5 @@
-FROM promojam/storm-docker:0.9.4
-MAINTAINER Promojam
+FROM wurstmeister/storm:0.9.4
+MAINTAINER Wurstmeister
 
 EXPOSE 6700
 EXPOSE 6701
